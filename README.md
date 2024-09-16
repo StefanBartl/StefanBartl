@@ -61,7 +61,6 @@ const WKDSteve: WKD = {
 };
 ```
 
-<p>Meet me @ :</p>
 <a href="https://www.linkedin.com/in/stefan-bartl/" target="_blank">🔗 LinkedIn</a>
 <br>
 <a href="https://discord.gg/JfpgmJ3A" target="_blank">🔗 Discord</a>
