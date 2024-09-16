@@ -61,12 +61,7 @@ const WKDSteve: WKD = {
 };
 ```
 
-<div style="display: flex; gap: 2rem; ">
 <p>Meet me @ :</p>
-<a href="https://www.linkedin.com/in/stefan-bartl/" target="_blank">
-<button style="background-color:#3DD1E7; border: 0; color: white; font-size: 1rem; padding: .75rem 1.65rem; max-width: 460px; transform: rotate(-2deg);" role="button">LinkedIn</button>
-</a>
-<a href="https://discord.gg/JfpgmJ3A" target="_blank">
-<button style="background-color:#5C66F6; border: 0; color: white; font-size: 1rem; padding: .75rem 1.65rem; max-width: 460px; transform: rotate(-2deg);" role="button">Discord</button>
-</a>
-</div>
+<a href="https://www.linkedin.com/in/stefan-bartl/" target="_blank">🔗 LinkedIn</a>
+<br>
+<a href="https://discord.gg/JfpgmJ3A" target="_blank">🔗 Discord</a>
