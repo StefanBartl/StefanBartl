@@ -61,6 +61,13 @@ const WKDSteve: WKD = {
 };
 ```
 
+<br>
+<p align="left">
+  <a href="mailto:l.value.dev@gmail.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=emanuel.angelo16@gmail.com" /></a>
+</p>  
 <a href="https://www.linkedin.com/in/stefan-bartl/" target="_blank">🔗 LinkedIn</a>
 <br>
 <a href="https://discord.gg/JfpgmJ3A" target="_blank">🔗 Discord</a>
+<br>
+<a href="https://stefanbartl.vercel.app/de" alt="Portfólio">🔗 my portfolio website</a>
