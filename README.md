@@ -9,7 +9,7 @@ I'm still in training and look forward to any kind of exchange. Feel free to rea
 **One important note:**
 Access to technology should be a given for everyone, but unfortunately, it is not. It is unevenly distributed and, despite its central importance, still not freely accessible. Our data is being collected daily, even now, often without our knowledge or consent, raising critical concerns about privacy and security.</p>
 <p>We must advocate for transparency and control over how our information is used!</p>
-<p>**Get organized!**</p>
+<p>Get organized!</p>
 
 ```ts
                                           /* Shape of me */
