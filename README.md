@@ -59,7 +59,7 @@ const WKDSteve: WKD = {
     ],
     currentlyLearning: ['Nest.js as a whole', 'apply TypeScript', 'awk', 'Windows Administration'],
     securityTools: ['Wireshark', 'HackRfOne', 'Metasploit', 'Soldering iron'],
-    latestVulnerability: `Got caught when I didn't lock the screen 3 times when I was a customer.`,
+    latestVulnerability: `Got caught when I didn't lock the screen 3 times when I was was working for a customer.`,
 };
 ```
 
