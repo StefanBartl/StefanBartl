@@ -2,7 +2,7 @@
   <img src="./public/images/dev_logo.png" alt="My own logo with slogan: Loving science, tech & peace!" style="width:100px; padding: 2rem" align= right>
 </p>
 <h1>Meet the Mind<br> Behind the Code:<br> Who I Am and What I Do</h1>
-<p align="justify"> My name is Stefan Bartl (WKDSteve, l.value) and I'm glad you're here. I mainly focus on TypeScript, Web-Development in general (WebAssembly, Web-IDL, SASS, Web-Security, Browsers, Infrastructure,...),
+<p align="justify"> My name is Stefan Bartl (Steve) and I'm glad you're here. I mainly focus on TypeScript, Web-Development in general (WebAssembly, Web-IDL, SASS, Web-Security, Browsers, Infrastructure,...),
  and "some C/C++". In my spare time, i fiddle around with newer languages like ZIG, Go or Rust or get hands on "close to the hardware" topics like x86-64 Assembly- or Linux-Kernel-Development. I share my achievements on LinkedIn and Google Drive, and you'll find the links below in the `WKDSteve` object.
 
 I'm still in training and look forward to any kind of exchange. Feel free to reach out, and we can chat on Discord about the wonderful world of information technology! I'm also interested in the maker scene, specifically 3D printing, and I'm a proud owner of an entry-level model from [*Bambu Lab*](https://eu.store.bambulab.com/en-at/products/a1-mini).
