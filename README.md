@@ -11,6 +11,12 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 <p>We must advocate for transparency and control over how our information is used!</p>
 <p>Get organized!</p>
 
+## Achievement
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Infos
+
 ```ts
                                           /* Shape of me */
 interface CodingSkillz {
