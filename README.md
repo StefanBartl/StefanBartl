@@ -13,7 +13,7 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 
 ## Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl&title=-Stars,-Followers,-Reviews,-PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl&title=-Stars,-Followers,-Reviews,-PullRequest&theme=discord&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Infos
 
