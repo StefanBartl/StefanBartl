@@ -14,8 +14,8 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 ## Projects for you
 
 <p align="left">
-  <a href="https://github.com/StefanBartl/nvim-cmdlog">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-cmdlog&theme=synthwave" alt="nvim-cmdlog">
+  <a href="https://github.com/StefanBartl/replacer">
+    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=replacer&theme=synthwave" alt="replacer">
   </a>
   <a href="https://github.com/StefanBartl/reposcope.nvim">
     <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=reposcope.nvim&theme=synthwave" alt="reposcope.nvim">
@@ -23,11 +23,11 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 </p>
 
 <p align="left">
+  <a href="https://github.com/StefanBartl/nvim-cmdlog">
+    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-cmdlog&theme=synthwave" alt="nvim-cmdlog">
+  </a>
   <a href="https://github.com/StefanBartl/nvim-containers">
     <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-containers&theme=synthwave" alt="nvim-containers">
-  </a>
-  <a href="https://github.com/StefanBartl/replacer">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=replacer&theme=synthwave" alt="replacer">
   </a>
 </p>
 
