@@ -50,21 +50,22 @@ const lavalue: WKD = {
     hoursSpentCodingLastMonth: 130,
     favoriteEditor: "nvim",
     languageRatings: new Map([
+        ['lua', 'Scripting & config lang of choice.'],
         ['typescript', 'Nice!'],
         ['c++', 'Just love it, really.'],
+        ['Go', 'Just love it, too.'],
         ['lisp', 'Nice for theory and learning.'],
         ['rust', 'Gold, but newbie.'], 
     ]),
     interpretersAndCompilers: 14,
-    yearsOfExperience: 3,
+    yearsOfExperience: 4,
     skillz: null,
     certificates: [
         `Look at my LinkedIn: www.linkedin.com/in/Stefan-Bartl`,
         `Look at my XMIND-RoadMap: https://xmind.ai/share/k2PSPlst`
     ],
-    currentlyLearning: ['Nest.js as a whole', 'apply TypeScript', 'awk', 'Windows Administration'],
+    currentlyLearning: ['Architecture', 'Golang intermediates', 'OS kernel development'],
     securityTools: ['Wireshark', 'HackRfOne', 'Metasploit', 'Soldering iron'],
-    latestVulnerability: `Got caught when I didn't lock the screen 3 times when I was was working for a customer.`,
 };
 ```
 
