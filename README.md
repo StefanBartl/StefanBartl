@@ -89,7 +89,5 @@ const profile: CodingProfile = {
 
 ![Top Langs](https://github-readme-stats-three-beta-80.vercel.app/api/top-langs/?username=StefanBartl&layout=compact&theme=synthwave)
 
-[![WakaTime stats](https://github-readme-stats-three-beta-80.vercel.app/api/wakatime?username=StefanBartl)](https://github.com/StefanBartl/github-readme-stats)
-
 <a href="https://www.linkedin.com/in/stefan-bartl/" target="_blank">🔗 LinkedIn</a>
 
