@@ -11,6 +11,20 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 <p>We must advocate for transparency and control over how our information is used!</p>
 <p>Get organized!</p>
 
+&emsp;&emsp;&emsp;&emsp;&emsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333) &emsp;&emsp;&emsp;&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333&layout=donut&hide_title=true)](https://github.com/StefanBartl/github-readme-stats)
+
+&emsp;&emsp;&emsp;
+
+> “A primary goal of any engineer should be to continually be learning and understanding.”
+>  
+> — John Carmack
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> 
+> — Harold Abelson
+
 ## Projects for you
 
 <p align="left">
