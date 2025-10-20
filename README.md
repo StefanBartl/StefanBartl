@@ -9,7 +9,8 @@ I'm look forward to any kind of exchange. Feel free to reach out, and we can cha
 **One important note:**
 Access to technology should be a given for everyone, but unfortunately, it is not. It is unevenly distributed and, despite its central importance, still not freely accessible. Our data is being collected daily, even now, often without our knowledge or consent, raising critical concerns about privacy and security.</p>
 <p>We must advocate for transparency and control over how our information is used!</p>
-<p>Get organized!</p>
+
+[Netzpolitik.org](https://netzpolitik.org) - get organized!
 
 &emsp;&emsp;&emsp;&emsp;&emsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333) &emsp;&emsp;&emsp;&emsp;&emsp;
