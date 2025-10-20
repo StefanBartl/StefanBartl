@@ -101,5 +101,3 @@ const profile: CodingProfile = {
 ## Achievement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl&title=-Stars,-Followers,-Reviews,-PullRequest&theme=discord&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats-three-beta-80.vercel.app/api/top-langs/?username=StefanBartl&layout=compact&theme=synthwave)
