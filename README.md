@@ -12,6 +12,9 @@ Access to technology should be a given for everyone, but unfortunately, it is no
 
 [Netzpolitik.org](https://netzpolitik.org) - get organized!
 
+New Neovim Plugin for Telescope out: [telescope-selected-index](http://www.githuhb.com/StefanBartl/telescope-selected-index)
+A lightweight Telescope.nvim plugin to show the index of the currently selected entry in the results window. Designed for easy integration.
+
 &emsp;&emsp;&emsp;&emsp;&emsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333) &emsp;&emsp;&emsp;&emsp;&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333&layout=donut&hide_title=true)](https://github.com/StefanBartl/github-readme-stats)
@@ -41,8 +44,8 @@ Access to technology should be a given for everyone, but unfortunately, it is no
   <a href="https://github.com/StefanBartl/nvim-cmdlog">
     <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-cmdlog&theme=synthwave" alt="nvim-cmdlog">
   </a>
-  <a href="https://github.com/StefanBartl/nvim-containers">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-containers&theme=synthwave" alt="nvim-containers">
+  <a href="https://github.com/StefanBartl/telescope-selected-index">
+    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=telescope-selected-index&theme=synthwave" alt="telescope-selected-index">
   </a>
 </p>
 
