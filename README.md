@@ -1,79 +1,70 @@
 <p align="center">
-  <img src="./public/images/dev_logo.png" alt="My own logo with slogan: Loving science, tech & peace!" style="width:100px; padding: 2rem" align= right>
+  <img src="./public/images/dev_logo.png" alt="My own logo with slogan: Loving science, tech & peace!" style="width:100px; padding: 2rem;" align="right">
 </p>
-<h1>Who I Am and What I Do</h1>
-<p align="justify"> Hi, i'm glad you're here! Based in Vienna, i mainly focus on Web-Development & Cyber Security. I like to fiddle around with languages like ZIG, Go or sometimes some Rust and also get hands on "close to the hardware" topics.
 
-I'm look forward to any kind of exchange. Feel free to reach out, and we can chat on Discord about the wonderful world of information technology! 
+# Who I Am and What I Do
 
-**One important note:**
-Access to technology should be a given for everyone, but unfortunately, it is not. It is unevenly distributed and, despite its central importance, still not freely accessible. Our data is being collected daily, even now, often without our knowledge or consent, raising critical concerns about privacy and security.</p>
+<p align="justify">
+Hi, I'm glad you're here! Based in Vienna, I mainly focus on Web Development & Cyber Security. I enjoy experimenting with languages like ZIG, Go, and sometimes Rust, and I also dive into "close to the hardware" topics.
+
+I look forward to any kind of exchange. Feel free to reach out and we can chat on Discord about the wonderful world of information technology!  
+
+**One important note:**  
+Access to technology should be a given for everyone, but unfortunately it is not. It is unevenly distributed and, despite its central importance, still not freely accessible. Our data is being collected daily, often without our knowledge or consent, raising critical concerns about privacy and security.
+</p>
+
 <p>We must advocate for transparency and control over how our information is used!</p>
 
-[Netzpolitik.org](https://netzpolitik.org) - get organized!
+[Netzpolitik.org](https://netzpolitik.org) – get organized!
 
-**New Neovim Plugin for Telescope out:** [telescope-selected-index](http://www.githuhb.com/StefanBartl/telescope-selected-index)
-A lightweight Telescope.nvim plugin to show the index of the currently selected entry in the results window. Designed for easy integration.
+**New Neovim Plugin for Telescope:**  
+[telescope-selected-index](https://github.com/StefanBartl/telescope-selected-index) – A lightweight Telescope.nvim plugin to show the index of the currently selected entry in the results window. Designed for easy integration.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333&layout=donut&hide_title=true">
+</p>
 
-
-&emsp;&emsp;&emsp;&emsp;&emsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333) &emsp;&emsp;&emsp;&emsp;&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333&layout=donut&hide_title=true)](https://github.com/StefanBartl/github-readme-stats)
-
-&emsp;&emsp;&emsp;
-
-> “A primary goal of any engineer should be to continually be learning and understanding.”
->  
+> “A primary goal of any engineer should be to continually be learning and understanding.”  
 > — John Carmack
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
-> 
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > — Harold Abelson
 
-## Projects for you
+## Projects for You
 
-<p align="left">
-  <a href="https://github.com/StefanBartl/replacer">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=replacer&theme=synthwave" alt="replacer">
-  </a>
-  <a href="https://github.com/StefanBartl/reposcope.nvim">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=reposcope.nvim&theme=synthwave" alt="reposcope.nvim">
-  </a>
-</p>
+- [**nvim-replacer**](https://github.com/StefanBartl/replacer)  
+  Project-wide search-and-replace with ripgrep, an interactive picker (fzf-lua or Telescope), live preview, and precise application of changes.
 
-<p align="left">
-  <a href="https://github.com/StefanBartl/nvim-cmdlog">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=nvim-cmdlog&theme=synthwave" alt="nvim-cmdlog">
-  </a>
-  <a href="https://github.com/StefanBartl/telescope-selected-index">
-    <img src="https://github-readme-stats-three-beta-80.vercel.app/api/pin/?username=StefanBartl&repo=telescope-selected-index&theme=synthwave" alt="telescope-selected-index">
-  </a>
-</p>
+- [**reposcope.nvim**](https://github.com/StefanBartl/reposcope.nvim)  
+  Search, preview, and clone GitHub repositories directly from inside Neovim. Modular, minimal, Telescope-inspired interface.
+
+- [**nvim-cmdlog**](https://github.com/StefanBartl/nvim-cmdlog)  
+  A lightweight, modern Neovim plugin to interactively view, search, and reuse command-line mode (`:`) history and shell history using Telescope or fzf.
+
+- [**telescope-selected-index**](https://github.com/StefanBartl/telescope-selected-index)  
+  A lightweight Telescope.nvim plugin to show the index of the currently selected entry in the results window. Designed for easy integration.
 
 ## Infos
 
 ```ts
-```ts
 /** 
- * type safe self-description
+ * Type-safe self-description
  */
-
 type Mood = "focused" | "curious" | "shipping";
 
 interface CodingProfile {
-  hoursSpentCodingLastMonth?: number;              // Tracked via editor plugins or manual estimate
-  favoriteEditor?: "nvim" | "vim" | "vscode";      // Editor of choice
-  languageNotes: ReadonlyMap<string, string>;      // Language label -> short opinion
-  toolchainCount: number;                          // Interpreters/compilers installed
-  yearsOfExperience: number;                       // Overall hands-on experience
-  securityTools: ReadonlyArray<string>;            // Selected security/infra tools
-  certificates?: ReadonlyArray<string>;            // External links to certificates
-  currentlyLearning?: ReadonlyArray<string>;       // Ongoing learning topics
-  nickname: string;                                // Handle
-  contact: string;                                 // Public contact email
-  mood: Mood;                                      // Current working mood
-  getMood: () => string;                           // Method returning a human friendly mood string
+  hoursSpentCodingLastMonth?: number;
+  favoriteEditor?: "nvim" | "vim" | "vscode";
+  languageNotes: ReadonlyMap<string, string>;
+  toolchainCount: number;
+  yearsOfExperience: number;
+  securityTools: ReadonlyArray<string>;
+  certificates?: ReadonlyArray<string>;
+  currentlyLearning?: ReadonlyArray<string>;
+  nickname: string;
+  contact: string;
+  mood: Mood;
+  getMood: () => string;
 }
 
 const profile: CodingProfile = {
@@ -100,9 +91,8 @@ const profile: CodingProfile = {
   ],
   currentlyLearning: ["Architecture", "Intermediate Go", "OS internals"]
 };
-```
+````
 
+## Achievements
 
-## Achievement
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl&title=-Stars,-Followers,-Reviews,-PullRequest&theme=discord&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StefanBartl\&title=-Stars,-Followers,-Reviews,-PullRequest\&theme=discord\&no-bg=false\&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
